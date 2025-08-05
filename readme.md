@@ -3,9 +3,9 @@
 
 ***~ChhoraEthical***
 
-```javascript
-const rajat = ""Rajat Raj"
-let var 
+```java
+const Rajat = "Rajat Raj"
+console.log(Rajat)
 ```
 ![img](./professor.jpg)
 
